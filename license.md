@@ -1,7 +1,7 @@
 BSD 3-Clause License
 
-Copyright (c) 2025, godalming123
 Copyright (c) 2016, enferex <mattdavis9@gmail.com>
+Copyright (c) 2025, godalming123
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
